@@ -23,7 +23,7 @@ Ngày sinh: 22/12/2005
 
 Số điện thoại: 0349508980
 
-Email: ptmphuong206@gmail.com
+Email: ptmphuong0206@gmail.com
 # Học vấn
 **Cao đẳng FPT Polytechnic**
 : Ngành Xử lý dữ liệu
@@ -97,12 +97,7 @@ Tableau | Python | Pandas | Excel | Power BI
 * Phân tích xu hướng ô nhiễm theo thời gian
 * Nhận diện các loại rác thải phổ biến
 * Đề xuất giải pháp giảm thiểu ô nhiễm
-
-🔗 [PHÂN TÍCH RÁC THẢI NHỰA VÀ MẬT ĐỘ VI NHỰA ẢNH HƯỞNG ĐẾN MÔI TRƯỜNG BIỂN VIỆT NAM](https://drive.google.com/drive/folders/1JUVtkE0aGuzA5RFisnm8qm3Lh2RSM2_B)
-
-### Dashboard
-
-![Sales Dashboard](abc-sales.png.png)
+  
 # Mục tiêu nghề nghiệp
 
 **Ngắn hạn**
