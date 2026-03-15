@@ -78,12 +78,6 @@ Power BI | Excel
 * Đánh giá hiệu quả của từng kênh phân phối
 * Đưa ra giải pháp trong quá trình vận hành, vận chuyển và dịch vụ, mức độ hài lòng của khách hàng
 
-🔗 [PHÂN TÍCH DỮ LIỆU KINH DOANH HIỆU QUẢ BÁN HÀNG CỦA BIA VIỆT NAM](https://docs.google.com/spreadsheets/d/1H7FPoKA_tZmVv0iapIVUAtU_LhROEL_XdWQb3POW5ME/edit?gid=0#gid=0)
-
-### Dashboard
-
-![Sales Dashboard](dashboard-sales.png.png)
-
 ## PHÂN TÍCH RÁC THẢI NHỰA VÀ MẬT ĐỘ VI NHỰA ẢNH HƯỞNG ĐẾN MÔI TRƯỜNG BIỂN VIỆT NAM
 
 **Mục tiêu:**
