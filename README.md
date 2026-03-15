@@ -10,19 +10,17 @@ Tôi cũng có nền tảng kiến ​​thức về Data Warehouse và mô hìn
 Mục tiêu của tôi là trở thành chuyên gia phân tích dữ liệu chuyên nghiệp có khả năng khai thác dữ liệu và cung cấp cái nhìn sâu sắc về giá trị cho doanh nghiệp.
 
 Thông tin cá nhân
-Họ và tên: Nguyễn Thị Thùy Trâm
+Họ và tên: Phạm Thị Minh Phượng
 
-Ngày sinh: 27/09/2006
+Ngày sinh: 22/12/2005
 
-Địa chỉ: Sơn Đồng, Hà Nội, Việt Nam
+Địa chỉ: Đại Hoàng, Ninh Bình, Việt Nam
 
-Số điện thoại: 0981954506
+Số điện thoại: 0349508980
 
-Email: thuytram279206@gmail.com
+Email: ptmphuong0206@gmail.com
 
 họ
-Cao đẳng Bách Khoa : Ngành công nghiệp phần mềm 2021 – 2023
-
 Cao đẳng FPT Polytechnic : Ngành Xử lý dữ liệu 2024 – 2026
 
 Kỹ năng
